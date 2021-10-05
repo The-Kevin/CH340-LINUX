@@ -19,11 +19,4 @@ lsmod | grep ch34 // checking new
 
 ```
 
-#modified for
-
-```
-Kevin Almeida  \\ @The-Kevin \\ kevin.almeida1111.ka@gmail.com
-
-```
-
 ---
